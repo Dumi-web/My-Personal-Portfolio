@@ -156,6 +156,7 @@ input[type=text], select, textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+}
 
 form {
     display: grid;
@@ -262,4 +263,5 @@ input {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    }
 }

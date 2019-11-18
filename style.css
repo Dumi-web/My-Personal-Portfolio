@@ -145,7 +145,6 @@ li a {
     padding: 20px;
     background: transparent;
     margin: 50px auto;
-    box-shadow: -2px 3px 2px rgba(59, 66, 59, 0.3);
 }
 
 input[type=text], select, textarea {
@@ -253,6 +252,7 @@ input {
         margin-left: 5%;
         font-size: 14px;
     }
+    
     input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
